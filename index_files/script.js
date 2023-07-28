@@ -39,7 +39,7 @@ var curRadio = "USD";
 var rankRadioValue = "IP";
 var vpsCost = 0;
 var aprFluxMonth = 0;
-var paValue = 10 / 8;
+var paValue = 10 / 9;
 
 /*********************************************
 Main function - Called at website opening
